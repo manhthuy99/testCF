@@ -1,0 +1,12 @@
+.option:hover {
+    color: red;
+    cursor: pointer;
+    transform: translateX(1px)
+}
+
+.right {
+    color: green;
+}
+.wrong {
+    color: red;
+}
